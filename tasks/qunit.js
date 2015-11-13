@@ -15,7 +15,7 @@ module.exports = function(grunt) {
   var url = require('url');
 
   // External lib.
-  var phantomjs = require('grunt-lib-phantomjs').init(grunt);
+  var phantomjs = require('grunt-lib-phantomjs2-unofficial').init(grunt);
 
   // Keep track of the last-started module, test and status.
   var options, currentModule, currentTest, status;

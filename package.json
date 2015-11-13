@@ -15,7 +15,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "grunt-lib-phantomjs": "^0.6.0"
+		"grunt-lib-phantomjs2-unofficial": "^0.7.2"
   },
   "devDependencies": {
     "difflet": "^0.2.3",
